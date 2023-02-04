@@ -1,5 +1,5 @@
 ## Hi there, 👋  I’m Mubarak - welcome to my Github!
-###  Frontend developer 
+###  Frontend Developer 
 - 👀 I’m interested in open source & frontend development 
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on projects  and entry level jobs 

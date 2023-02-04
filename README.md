@@ -1,8 +1,8 @@
-## Hi there, 👋  I’m Mubarak - welcome to my Github!
+## Hi there, 👋  I’m Mubarak - Welcome to my Github!
 ###  Frontend Developer 
 - 👀 I’m interested in open source & frontend development 
 - 🌱 I’m currently learning React.js 
-- 💞️ I’m looking to collaborate on projects  and entry level jobs 
+- 💞️ I’m looking to contribute to projects, entry level jobs 
 - 🧑‍💻 My portfolio is available at https://mubbyjs.netlify.app 
 - 📫 How to reach me: yahayamubarak447@gmail.com 
 

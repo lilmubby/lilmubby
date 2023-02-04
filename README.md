@@ -1,6 +1,6 @@
 ## Hi there, 👋  I’m Mubarak - welcome to my Github!
-
-- 👀 I’m interested in getting in open source, frontend development 
+###  Frontend developer 
+- 👀 I’m interested in open source & frontend development 
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on projects  and entry level jobs 
 - 🧑‍💻 My portfolio is available at https://mubbyjs.netlify.app 
